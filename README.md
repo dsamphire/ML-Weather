@@ -1,4 +1,2 @@
 # Simple Machine Learning
--AIU Assignment
--Written in Jupyter with AI help
--Weather Forecasting
+| AIU Assignment | Written in Jupyter with AI help | Weather Forecasting |
